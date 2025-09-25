@@ -69,3 +69,12 @@ Question 5:
             Un composant est un élément d’interface indépendant et réutilisable dans une maquette. Il peut s’agir d’un bouton, d’un formulaire, d’un menu ou de tout autre élément graphique.
             Une fois créé, un composant peut être utilisé plusieurs fois dans différentes parties de l’interface sans avoir à le recréer.
             Toute modification apportée au composant principal se répercute automatiquement sur toutes ses instances, ce qui garantit cohérence et gain de temps dans la conception.
+
+Question 5:
+            -Un composant est un élément graphique défini une fois et réutilisable dans l’ensemble du projet.
+            Exemple : un bouton, une carte produit, un champ de formulaire.
+            -Avantages :
+                Assure la cohérence graphique.
+                Permet de gagner du temps.
+                Toute modification du composant maître se répercute automatiquement sur ses instances.
+
